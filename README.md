@@ -38,11 +38,9 @@ Passionnée par le développement web et la création d'applications performante
 
 ### 📊 Mes Statistiques GitHub
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=aya123-belghazi&show_icons=true&theme=tokyonight&count_private=true" alt="Aya's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya123-belghazi&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+![Stats de Aya](https://github-readme-stats.vercel.app/api?username=aya123-belghazi&show_icons=true&theme=tokyonight)
 
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aya123-belghazi&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Me Contacter
