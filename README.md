@@ -35,12 +35,9 @@ Passionnée par le développement web et la création d'applications performante
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+### 🔥 Ma constance
 
-### 📊 Mes Statistiques GitHub
-
-![Stats de Aya](https://github-readme-stats.vercel.app/api?username=aya123-belghazi&show_icons=true&theme=tokyonight)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aya123-belghazi&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aya123-belghazi&theme=tokyonight)
 ---
 
 ### 📫 Me Contacter
